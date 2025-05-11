@@ -70,6 +70,6 @@ The script generates:
 
 MIT — free to use, fork, and improve.
 
-## 🙋‍♀️ Author
+## Author
 
 Developed by [Nodoka Shibasaki](https://github.com/nodokashibasaki3)
